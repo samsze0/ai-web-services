@@ -46,6 +46,30 @@ payload:
   - +.proactivebackend-pa.googleapis.com
   - +.robinfrontend-pa.googleapis.com
 
+  # Google AI / Gemini support domains
+  - +.gemini.gstatic.com
+  - +.www.gstatic.com
+  - +.ssl.gstatic.com
+  - +.fonts.googleapis.com
+  - +.fonts.gstatic.com
+  - +.accounts.google.com
+  - +.oauth2.googleapis.com
+  - +.apis.google.com
+  - +.content.googleapis.com
+  - +.lh3.googleusercontent.com
+  - +.geminiweb-pa.clients6.google.com
+  - +.alkalimakersuiteapplets.pa.clients6.google.com
+  - +.cloudconsole-pa.clients6.google.com
+  - +.people-pa.clients6.google.com
+  - +.waa-pa.clients6.google.com
+  - +.ogads-pa.clients6.google.com
+  - +.push.clients6.google.com
+  - +.gemini.app.google
+
+  # Google Antigravity downloads / distribution
+  - +.storage.googleapis.com
+  - +.edgedl.me.gvt1.com
+
   # Perplexity
   - +.perplexity.ai
 
