@@ -19,11 +19,6 @@ payload:
   - +.meta.ai
   - +.ai.meta.com
   - +.developer.meta.com
-  
-  # Meta identity/authentication used during signup/login
-  - +.facebook.com
-  - +.fb.com
-  - +.fbcdn.net
 
   # Google AI / Gemini / Bard
   - +.gemini.google.com
