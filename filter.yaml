@@ -15,6 +15,11 @@ payload:
   - +.claude.ai
   - +.claude.com
 
+  # Meta / Muse
+  - +.meta.ai
+  - +.ai.meta.com
+  - +.developer.meta.com
+
   # Google AI / Gemini / Bard
   - +.gemini.google.com
   - +.gemini.google
