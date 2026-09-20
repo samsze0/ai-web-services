@@ -160,3 +160,10 @@ payload:
 
   # Flux / Black Forest Labs
   - +.blackforestlabs.ai
+
+  # OpenRouter
+  - +.openrouter.ai
+
+  # Reve (AI Image)
+  - +.reve.com
+  - +.reve.art
